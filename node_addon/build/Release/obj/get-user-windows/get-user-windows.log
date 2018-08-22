@@ -1,0 +1,10 @@
+﻿  get_windows_user.cc
+c:\users\continue\get-user-windows\node_addon\get_windows_user.cc(102): warning C4996: 'v8::String::Utf8Value::Utf8Value': объявлен deprecate
+  c:\users\continue\.node-gyp\10.9.0\include\node\v8.h(2874): note:  см. объявление "v8::String::Utf8Value::Utf8Value"
+     Создается библиотека C:\Users\continue\get-user-windows\node_addon\build\Release\get-user-windows.lib и объект C:\Users\continue\get-user-windows\node_addon\build\Release\get-user-windows.exp
+  Создание кода
+  3 of 457 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  get-user-windows.vcxproj -> C:\Users\continue\get-user-windows\node_addon\build\Release\\get-user-windows.node

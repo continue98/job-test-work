@@ -1,0 +1,5 @@
+﻿  get_windows_user.cc
+c:\users\continue\get-user-windows\node_addon\get_windows_user.cc(102): warning C4996: 'v8::String::Utf8Value::Utf8Value': объявлен deprecate
+  c:\users\continue\.node-gyp\10.9.0\include\node\v8.h(2874): note:  см. объявление "v8::String::Utf8Value::Utf8Value"
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\continue\get-user-windows\node_addon\build\Debug\get-user-windows.lib ш юс·хъЄ C:\Users\continue\get-user-windows\node_addon\build\Debug\get-user-windows.exp
+  get-user-windows.vcxproj -> C:\Users\continue\get-user-windows\node_addon\build\Debug\\get-user-windows.node
